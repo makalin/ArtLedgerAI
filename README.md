@@ -1,5 +1,7 @@
 # ArtLedgerAI
 
+![ArtLedgerAI Logo](logo.png)
+
 ## Overview
 ArtLedgerAI is an innovative application that leverages artificial intelligence and blockchain technology to authenticate and verify the provenance of artworks. Targeting the niche market of art collectors, galleries, and institutions, it ensures trust and transparency in art transactions by combining cutting-edge AI analysis with immutable blockchain records.
 
